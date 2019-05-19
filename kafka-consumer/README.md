@@ -3,7 +3,7 @@
 ### Guides
 The following guides illustrates how to use certain features concretely:
 
-################################## start kafka server #############################################
+## start kafka server 
 
 1. Download kafka from https://kafka.apache.org/downloads
   - Here we have used kafka_2.11-2.1.1
