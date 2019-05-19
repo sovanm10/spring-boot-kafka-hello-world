@@ -1,0 +1,7 @@
+kafka:
+  bootstrap-servers: localhost:9092
+  topic: topic-test
+  gropuId: helloworld
+  
+server:
+  port: 8081
