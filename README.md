@@ -12,7 +12,7 @@ The following guides illustrates how to use certain features concretely:
   - Here we have used kafka_2.11-2.1.1
 ## Start Zookeeper
 
-2. Start the Zookeeper- Go to the kafka installation path and run below command in command prompt window1
+2. Start the Zookeeper- Go to the kafka installation path and run below command in command prompt window
 
 C:\kafka_2.12-0.10.2.1>   .\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
 
@@ -30,7 +30,7 @@ After Successful start Kafka server run kafka-consumer spring boot application
 ## Start kafka-producer App
 
 Run kafka-producer spring boot application. After successful start kafka-producer app
-One any browser and run below url.
+Open any browser and run below url.
 
 http://localhost:8080//kafka/producer?message=Hello Kafka!
 
